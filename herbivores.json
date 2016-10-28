@@ -1,0 +1,16 @@
+{
+  "herbivores": [
+    {
+      "name": "elephant",
+      "era": "modern"
+    },
+    {
+      "name": "giraffe",
+      "era": "modern"
+    },
+    {
+      "name": "deer",
+      "era": "modern"
+    }
+  ]
+}

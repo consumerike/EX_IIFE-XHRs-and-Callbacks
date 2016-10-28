@@ -1,0 +1,17 @@
+
+{
+  "meateaters": [
+    {
+      "name": "Sabertooth Tiger",
+      "era": "Ice Age"
+    },
+    {
+      "name": "liger",
+      "era": "modern"
+    },
+    {
+      "name": "trex",
+      "era": "prehistoric"
+    }
+  ]
+}
